@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Matias Zappino - [Github](https://github.com/matiaszappino)
-Hugo Gomez - [Github](https://github.com/Lunerio)
+Stephen Olayemi - [Github](https://github.com/olayemi5)
+
 
 ## License
 Public Domain. No copy write protection. 
